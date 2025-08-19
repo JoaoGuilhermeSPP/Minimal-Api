@@ -1,0 +1,5 @@
+c:\Users\Jg\Desktop\projeto\projetoAPI\miminal-api\obj\Debug\net7.0\miminal-api.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jg\Desktop\projeto\projetoAPI\miminal-api\obj\Debug\net7.0\miminal-api.AssemblyInfoInputs.cache
+c:\Users\Jg\Desktop\projeto\projetoAPI\miminal-api\obj\Debug\net7.0\miminal-api.AssemblyInfo.cs
+c:\Users\Jg\Desktop\projeto\projetoAPI\miminal-api\obj\Debug\net7.0\miminal-api.csproj.CoreCompileInputs.cache
+c:\Users\Jg\Desktop\projeto\projetoAPI\miminal-api\obj\Debug\net7.0\miminal-api.MvcApplicationPartsAssemblyInfo.cache
