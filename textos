@@ -1,0 +1,19 @@
+// dotnet new webapi -n NomeDoProjeto           // cria um novo projeto de API
+// dotnet run                                   // roda o projeto
+// dotnet watch run                             // roda o projeto e reinicia automaticamente ao salvar alterações
+// dotnet build                                 // compila o projeto
+// dotnet clean                                 // limpa bin/obj
+// dotnet test                                  // executa testes
+// dotnet publish -c Release -o ./publish       // publica a aplicação
+
+
+// dotnet add package Microsoft.EntityFrameworkCore                   // adiciona EF Core
+// dotnet add package Pomelo.EntityFrameworkCore.MySql                // adiciona provedor MySQL
+// dotnet add package Microsoft.EntityFrameworkCore.Tools             // adiciona ferramentas EF Core
+// dotnet ef migrations add NomeDaMigracao                             // cria migração
+// dotnet ef database update                                          // aplica migração no banco
+// dotnet ef migrations remove                                        // remove última migração
+// dotnet ef database update NomeDaMigracaoAnterior                   // reverte para migração anterior
+// dotnet ef dbcontext info                                           // mostra o DbContext atual e string de conexão
+// dotnet ef dbcontext list                                           // lista todos os DbContexts do projeto
+// dotnet ef dbcontext scaffold "string_de_conexao" Pomelo.EntityFrameworkCore.MySql -o Models   // gera modelos a partir de um banco existente
